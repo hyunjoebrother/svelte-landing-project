@@ -3,6 +3,7 @@
   import MainPage from "./routes/MainPage.svelte";
   import CanvasPage from "./routes/CanvasPage.svelte";
   export let url = "";
+  });
 </script>
 
 <Router {url}>
