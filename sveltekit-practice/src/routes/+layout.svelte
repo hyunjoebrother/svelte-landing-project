@@ -1,5 +1,9 @@
 <script>
-	import '../app.postcss'
+	import '../app.postcss';
+	import Navbar from '../components/Navbar.svelte';
 </script>
 
-<slot />
+<div class="w-full min-h-screen">
+	<Navbar />
+	<slot />
+</div>

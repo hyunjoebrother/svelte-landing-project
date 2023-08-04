@@ -1,1 +1,1 @@
-<h1 class="text-red-700">헤더임</h1>
+<h1 class="text-orange-700">헤더임</h1>
