@@ -1,10 +1,12 @@
 <script>
   import Radar1 from "../components/Radar/Radar1.svelte";
+  import Radar2 from "../components/Radar/Radar2.svelte";
 
 </script>
   
   <div class="container">
-    <Radar1 />
+    <!-- <Radar1 /> -->
+    <Radar2 />
   </div>
   
   <style>
